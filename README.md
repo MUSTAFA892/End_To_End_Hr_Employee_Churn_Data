@@ -150,5 +150,3 @@ This will trigger the model training process. Once training is complete, you wil
 Feel free to fork this repository, create an issue, or submit a pull request for any bug fixes, improvements, or additional features.
 
 ---
-
-This `README.md` should provide clear instructions on setting up and using your project while also offering a description of the folder structure and key components involved in the churn prediction pipeline.
