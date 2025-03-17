@@ -12,14 +12,14 @@ class DatabaseOperation:
     *
     * file_name:       DatabaseOperation.py
     * version:        1.0
-    * author:         CODESTUDIO
-    * creation date:  05-MAY-2020
+    * author:         MUSTAFA
+    * creation date:  10-MAR-2025
     *
     * change history:
     *
     * who             when           version  change (include bug# if apply)
     * ----------      -----------    -------  ------------------------------
-    * CODESTUDIO      05-MAY-2020    1.0      initial creation
+    * MUSTAFA      10-MAR-2025    1.0      initial creation
     *
     *
     * description:    Class to handle database operations
@@ -40,7 +40,7 @@ class DatabaseOperation:
         *
         * who             when           version  change (include bug# if apply)
         * ----------      -----------    -------  ------------------------------
-        * CODESTUDIO      05-MAY-2020    1.0      initial creation
+        * MUSTAFA      10-MAR-2025    1.0      initial creation
         *
         * Parameters
         *   database_name:
@@ -61,7 +61,7 @@ class DatabaseOperation:
         *
         * who             when           version  change (include bug# if apply)
         * ----------      -----------    -------  ------------------------------
-        * bcheekati       05-MAY-2020    1.0      initial creation
+        * Mustafa         10-MAR-2025    1.0      initial creation
         *
         * Parameters
         *   database_name:
@@ -107,7 +107,7 @@ class DatabaseOperation:
         *
         * who             when           version  change (include bug# if apply)
         * ----------      -----------    -------  ------------------------------
-        * bcheekati       05-MAY-2020    1.0      initial creation
+        * Mustafa         10-MAR-2025    1.0      initial creation
         *
         * Parameters
         *   database_name:
@@ -151,7 +151,7 @@ class DatabaseOperation:
         *
         * who             when           version  change (include bug# if apply)
         * ----------      -----------    -------  ------------------------------
-        * bcheekati       05-MAY-2020    1.0      initial creation
+        * Mustafa         10-MAR-2025    1.0      initial creation
         *
         * Parameters
         *   database_name:

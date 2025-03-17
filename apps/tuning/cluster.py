@@ -14,14 +14,14 @@ class KMeansCluster:
     *
     * filename:       KMeansCluster.py
     * version:        1.0
-    * author:         CODESTUDIO
-    * creation date:  05-MAY-2020
+    * author:         MUSTAFA
+    * creation date:  13-MAR-2025
     *
     * change history:
     *
     * who             when           version  change (include bug# if apply)
     * ----------      -----------    -------  ------------------------------
-    * bcheekati       05-MAY-2020    1.0      initial creation
+    * Mustafa         13-MAR-2025    1.0      initial creation
     *
     *
     * description:    Class to cluster the dataset
@@ -43,7 +43,7 @@ class KMeansCluster:
         *
         * who             when           version  change (include bug# if apply)
         * ----------      -----------    -------  ------------------------------
-        * bcheekati       05-MAY-2020    1.0      initial creation
+        * Mustafa         13-MAR-2025    1.0      initial creation
         *
         * Parameters
         *   data:
@@ -79,7 +79,7 @@ class KMeansCluster:
         *
         * who             when           version  change (include bug# if apply)
         * ----------      -----------    -------  ------------------------------
-        * bcheekati       05-MAY-2020    1.0      initial creation
+        * Mustafa         13-MAR-2025    1.0      initial creation
         *
         * Parameters
         *   data:
