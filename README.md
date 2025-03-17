@@ -1,8 +1,8 @@
+Here’s the updated README with the requested changes:
 
 ---
 
 # End_To_End_Hr_Employee_Churn_Data
-
 
 ## Overview
 
@@ -145,8 +145,22 @@ This will trigger the model training process. Once training is complete, you wil
 
 5. **Accessing the GUI**: After launching the app, you can visit the root URL (`/`) in your browser. This will display a graphical user interface where you can interact with the model and make predictions.
 
+6. **Accessing the Dashboard**: If you want to access the monitoring dashboard, navigate to the following URL in your browser:
+
+   ```
+   http://localhost:5000/dashboard
+   ```
+
+   - The default username and password to access the dashboard are:
+     - **Username**: `admin`
+     - **Password**: `admin`
+
+   This will bring up a Flask Monitoring Dashboard where you can monitor your application's performance and activity.
+
 ## Contributing
 
 Feel free to fork this repository, create an issue, or submit a pull request for any bug fixes, improvements, or additional features.
 
 ---
+
+This version includes the addition of the dashboard access instructions and the default login credentials. Let me know if you need any further updates or clarifications!
